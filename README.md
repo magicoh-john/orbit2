@@ -1,6 +1,5 @@
 # 구매관리시스템 (Purchase Management System)
 
-![타이틀이미지](https://user-images.githubusercontent.com/61308861/428401151-8448eb7d-9147-41b9-9c61-bddacec59b8c.png)
 
 ![타이틀이미지](./images/title_image.png)
 
@@ -284,7 +283,10 @@ purchase-management-system-front
 ![역할 배분](https://user-images.githubusercontent.com/61308861/428400573-1d369007-3700-4587-aef6-7b73d86623d9.png)
 
 
-### 팀원별 역할 분배배
+### 팀원별 역할 분배
+![타이틀이미지](./images/team_role.png)
+
+
 
 <!DOCTYPE html>
 <html lang="ko">
