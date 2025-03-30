@@ -1,6 +1,6 @@
 # 구매관리시스템 (Purchase Management System)
 
-![타이틀이미지]()
+![타이틀이미지](https://user-images.githubusercontent.com/61308861/428401151-8448eb7d-9147-41b9-9c61-bddacec59b8c.png)
 
 ## 구매관리시스템 링크: [https://purchase-management-system.com](https://purchase-management-system.com)
 ## 소개 영상 보기: [UCC 링크](https://www.youtube.com/watch/LDKpw45f9QY)
@@ -279,8 +279,7 @@ purchase-management-system-front
 
 ## ✔ 팀원 역할 분배
 ---
-![역할 배분]()
-
+![역할 배분](https://user-images.githubusercontent.com/61308861/428400573-1d369007-3700-4587-aef6-7b73d86623d9.png)
 
 
 ### 팀원별 역할 분배배
