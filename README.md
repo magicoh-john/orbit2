@@ -279,7 +279,7 @@ purchase-management-system-front
 
 ## ✔ 팀원 역할 분배
 ---
-![역할 배분](https://user-images.githubusercontent.com/55949647/154541550-b52932b4-9e3d-4788-9994-98dd7fe8c875.png)
+![역할 배분]()
 
 
 
