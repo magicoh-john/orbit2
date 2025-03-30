@@ -1,6 +1,6 @@
 # 구매관리시스템 (Purchase Management System)
 
-![타이틀이미지](https://user-images.githubusercontent.com/55949647/154088644-8ae7ec32-04bb-4fc3-810a-c2111ec2afb8.png)
+![타이틀이미지]()
 
 ## 구매관리시스템 링크: [https://purchase-management-system.com](https://purchase-management-system.com)
 ## 소개 영상 보기: [UCC 링크](https://www.youtube.com/watch/LDKpw45f9QY)
@@ -282,135 +282,231 @@ purchase-management-system-front
 ---
 ![역할 배분](https://user-images.githubusercontent.com/55949647/154541550-b52932b4-9e3d-4788-9994-98dd7fe8c875.png)
 
-## ✔ 프로젝트 산출물
----
-- [기능명세서](./docs/기능명세서.md)
-- [디자인&컨셉기획](./docs/디자인&컨셉기획.md)
-- [스토리보드](./docs/스토리보드.md)
-- [시퀀스다이어그램](./docs/시퀀스다이어그램.md)
-- [아키텍처](./docs/서비스_아키텍처.md)
-- [와이어프레임](./docs/와이어프레임.md)
-- [컨벤션](./docs/컨벤션.md)
-- [API](./docs/API.md)
-- [ERD](./docs/ERD.md)
-- [회의록](./docs/회의록.md)
-- [테스트케이스](./docs/구매관리시스템_테스트케이스.xlsx)
-- [시스템기술서](./docs/구매관리시스템_시스템_기술서.docx)
-- [명세기술서](./docs/구매관리시스템_명세_기술서.docx)
 
-## ✔ 프로젝트 결과물
-- [포팅메뉴얼](./exec/구매관리시스템_포팅_메뉴얼.docx)
-- [중간발표자료](./ppt/구매관리시스템_중간발표.pptx)
-- [최종발표자료](./ppt/구매관리시스템_최종발표.pptx)
 
-## 🎵 구매관리시스템 서비스 화면
----
+### 팀원별 역할 분배배
 
-### 로그인/회원가입
-- 이용약관에 동의하지 않으면 진행할 수 없습니다.
-- 아이디(이메일)는 타 사용자의 아이디와 중복될 수 없습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587535-8e1656c9-53fa-433e-ac22-efc1963b21a7.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587545-22a4a70f-8cac-4772-a6e5-29c55ff0409b.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587551-b31f46b9-8f39-42ed-8c38-282734224762.gif"/>
-
-<br>
-
-### 메인화면
-- 최신순으로 등록된 입찰 공고, 발주 현황, 납품 현황을 확인할 수 있습니다.
-- 실시간 알림을 통해 중요한 업데이트를 확인할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587375-cfef4162-d404-41fd-9d28-39712f2cf5b1.gif"/>
-
-<br>
-
-### 입찰 관리
-- 입찰 공고를 등록하고 관리할 수 있습니다.
-- 공급업체를 초대하고 입찰 현황을 모니터링할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587487-fc0e71b1-507c-4c66-b906-d583f530f139.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587499-da47e90b-c9ae-478f-8942-c5afde9aa4b2.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587504-8e596650-49dd-4ffc-81ae-a2e384527fdc.gif"/>
-
-<br>
-
-### 발주 관리
-- 발주서를 생성하고 승인 프로세스를 진행할 수 있습니다.
-- 발주 이력과 상태를 추적할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587515-0ebaf6f4-a87f-474c-946c-dee20bed0476.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587529-b2be3b77-4b18-48d8-910e-89235409fc82.gif"/>
-
-<br>
-
-### 통계 및 분석
-- 월별 구매 실적을 분석할 수 있습니다.
-- 카테고리별, 공급업체별 구매 현황을 확인할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587432-39f947e4-988d-47e7-adb4-dedcfbb95c1a.gif"/>
-
-<br>
-
-### 실시간 알림
-- 입찰 참여, 발주 승인, 납품 요청 등 중요 이벤트에 대한 실시간 알림을 받을 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587392-41092786-b6c9-4fcd-a3e8-bf476519d5f5.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587394-02371e17-420f-42cf-9d99-e51e3280465e.gif"/>
-
-<br>
-
-### 납품 관리
-- 납품 요청을 생성하고 관리할 수 있습니다.
-- 납품 상태를 추적하고 검수 프로세스를 진행할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587441-5bf6a5bf-1bf0-4910-95c8-089e75ed4817.gif"/>
-
-<br>
-
-### 시스템 설정
-- 사용자 권한 관리
-- 시스템 파라미터 설정
-- 알림 설정
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587451-cd504c78-5147-45df-881d-b8d45e766b26.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587467-401548d1-4ef2-4d16-adc6-abb7e97a47de.gif"/>
-
-<br>
-
-### 알림 목록
-- 모든 시스템 알림을 한 곳에서 확인할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587397-120e0308-8a4b-4c65-977e-e0991ed5d820.gif"/>
-
-<br>
-
-### 검색 기능
-- 입찰 공고, 발주서, 납품 요청 등을 검색할 수 있습니다.
-- 고급 검색 옵션을 통해 정확한 결과를 찾을 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587561-55048bc1-4649-4bb4-a6b3-468d01f3e9e7.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587364-f62396c2-a221-4424-a6ce-f2ef6b9362b9.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587565-4bfb22ef-621b-4df8-b7b7-bd73d324f50d.gif"/>
-
-<br>
-
-### 프로필 관리
-- 사용자 정보를 관리하고 권한을 설정할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587436-8d94a81a-b287-4d59-99a6-dca905eaf5b5.gif"/>
-
-<br>
-
-### 설정
-- 시스템 설정을 관리할 수 있습니다.
-- 알림 설정을 커스터마이즈할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587378-146a0843-c95e-4323-a53e-ea3157a846ee.gif"/>
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154591542-7efa6cf5-ff54-40d1-9d8-1d2682c30ee4.gif"/>
-
-<br>
-
-### 로그아웃
-- 안전하게 시스템에서 로그아웃할 수 있습니다.
-
-<img width="30%" src="https://user-images.githubusercontent.com/55949647/154587391-bb7fe4c1-bb9b-4c9f-a6bd-6dba13daadde.gif"/>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>구매관리시스템 팀원별 역할 및 기술 스택</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #343a40;
+            font-size: 24px;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e9ecef;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #dee2e6;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #495057;
+        }
+        .name-cell {
+            font-weight: bold;
+            width: 80px;
+        }
+        .part-cell {
+            width: 100px;
+        }
+        ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .tech-section {
+            margin-top: 30px;
+        }
+        .tech-section h2 {
+            font-size: 18px;
+            color: #495057;
+            margin-bottom: 15px;
+        }
+        .project-info {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .project-info p {
+            margin: 5px 0;
+        }
+        tr:nth-child(1) { background-color: #e7f5ff; }
+        tr:nth-child(2) { background-color: #e8f6ec; }
+        tr:nth-child(3) { background-color: #fff9e6; }
+        tr:nth-child(4) { background-color: #fce8ea; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>팀원별 역할 및 기술 스택</h1>
+        
+        <div class="project-info">
+            <p><strong>프로젝트명:</strong> 구매관리시스템</p>
+            <p><strong>프로젝트 기간:</strong> 2025.02.27 ~ 2025.03.27 (30일)</p>
+            <p><strong>프로젝트 내용:</strong> Ezen Academy K-Digital 2기 파이널 프로젝트</p>
+        </div>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>이름</th>
+                    <th>담당 파트</th>
+                    <th>담당 업무</th>
+                    <th>기술 스택</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="name-cell">박슬기</td>
+                    <td class="part-cell">Backend</td>
+                    <td>
+                        <ul>
+                            <li>입고 관리</li>
+                            <li>송장 관리</li>
+                            <li>지불 관리</li>
+                            <li>통계</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+							<li>Spring Boot로 RESTful API 작성</li>
+                            <li>EC2 인프라 환경 세팅</li>
+                            <li>프론트엔드, 백엔드 AWS EC2 배포</li>
+                            <li>Github Action을 활용한 CI/CD</li>
+							<li>Nginx 웹서버 적용(Load Balancing, Reverse Proxy)</li>
+                            <li>Recharts 통계 개발</li>
+							
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="name-cell">안재은</td>
+                    <td class="part-cell">Backend</td>
+                    <td>
+                        <ul>
+                            <li>입찰 관리</li>
+                            <li>계약 관리</li>
+                            <li>발주 관리</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+							<li>전체적인 UI/UX담당</li>
+							<li>Spring Boot로 RESTful API 작성</li>
+							<li>'Redux', 'React-Query'를 이용한 상태관리</li>							
+                            <li>Spring Security</li>
+                            <li>'Emotion'을 이용한 CSS-in-JS 방식 스타일링 구현</li>
+                            <li>'Media Query'이용한 반응형 웹 구현</li>
+                            <li>UCC담당</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="name-cell">장보경</td>
+                    <td class="part-cell">Frontend</td>
+                    <td>
+                        <ul>
+                            <li>구매요청 관리</li>
+                            <li>결재 및 결재선 관리</li>
+                            <li>프로젝트 관리</li>
+                            <li>공통코드 관리</li>
+                            <li>품목 관리</li>
+                            <li>대시보드</li>
+                            <li>로그인/회원가입</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+							<li>Spring Boot로 RESTful API 작성</li>
+							<li>Spring Data JPA 세팅</li>
+							<li>JWT를 이용한 토큰 생성 구현</li>
+                            <li>MariaDB, Redis</li>
+                            <li>WebSocket</li>
+							<li>SMTP Server</li>
+							<li>로그인 도메인 개발</li>
+							<li>회원가입 도메인 개발</li>
+                            <li>React, React Router</li>
+                            <li>Redux Toolkit</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="name-cell">김혜미</td>
+                    <td class="part-cell">Frontend</td>
+                    <td>
+                        <ul>
+                            <li>사용자 관리</li>
+                            <li>협력업체 관리</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>데이터베이스 모델링 및 DB설계</li>
+							<li>아키텍처 설계</li>
+                            <li>와이어프레임 제작</li>
+                            <li>기획 및 문서관리</li>
+                            <li>협업툴 관리</li>
+							<li>Axios, fetch Api 설계</li>
+							<li>React custom hook제작</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <div class="tech-section">
+            <h2>사용 기술 요약</h2>
+            <table>
+                <tr>
+                    <th width="120">영역</th>
+                    <th>사용 기술</th>
+                </tr>
+                <tr>
+                    <td><strong>백엔드</strong></td>
+                    <td>Spring Boot 3.x, Spring Data JPA, Spring Security, Spring Validation, Spring Web, QueryDSL, WebSocket, Redis, MySQL, JWT, Swagger 3.0.0</td>
+                </tr>
+                <tr>
+                    <td><strong>프론트엔드</strong></td>
+                    <td>React, Redux Toolkit, React Router, Material-UI, Recharts, Axios, WebSocket</td>
+                </tr>
+                <tr>
+                    <td><strong>인프라/배포</strong></td>
+                    <td>Github Actions, AWS EC2, AWS RDS, NGINX 프록시 서버</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
