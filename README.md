@@ -2,6 +2,8 @@
 
 ![타이틀이미지](https://user-images.githubusercontent.com/61308861/428401151-8448eb7d-9147-41b9-9c61-bddacec59b8c.png)
 
+![타이틀이미지](./images/title_image.png)
+
 ## 구매관리시스템 링크: [https://purchase-management-system.com](https://purchase-management-system.com)
 ## 소개 영상 보기: [UCC 링크](https://www.youtube.com/watch/LDKpw45f9QY)
 
