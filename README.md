@@ -4,6 +4,7 @@
 ![타이틀이미지](./images/title_image.png)
 
 ## 구매관리시스템 링크: [https://purchase-management-system.com](https://purchase-management-system.com)
+
 ## 소개 영상 보기: [UCC 링크](https://www.youtube.com/watch/LDKpw45f9QY)
 
 ## 💜 프로젝트 진행 기간
