@@ -8,7 +8,7 @@
 ## 소개 영상 보기: [UCC 링크](https://www.youtube.com/watch/LDKpw45f9QY)
 
 ## 💜 프로젝트 진행 기간
-2025.02.27 ~ 2025.03.27 (30일간 진행)  
+2025.02.24 ~ 2025.03.27 (32일간 진행)  
 Ezen Academy K-Digital 2기 파이널 프로젝트 - 구매관리시스템
 
 </br>
@@ -23,23 +23,23 @@ Ezen Academy K-Digital 2기 파이널 프로젝트 - 구매관리시스템
 ## 💜 구매관리시스템 - 주요기능
 ---
 ### 1. 회원 관리
-- **역할 기반 접근 제어**
+- 역할 기반 접근 제어
   - 회사 직원과 협력업체를 구분하여 관리
   - 각 역할별 맞춤형 기능 제공
   - 보안 강화를 위한 권한 관리
 
-- **협력업체 **
+- 협력업체 
   - 입찰 참여
   - 인보이스 직접 등록 기능
   - 실시간 알림 수신
 
 ### 2. 시스템 관리
-- **결재선 관리**
+- 결재선 관리
   - 미리 정의된 결재선 템플릿
   - 구매 요청 시 결재선 선택
   - 결재 레벨 권한 관리
 
-- **공통 코드 관리**
+- 공통 코드 관리
   - 계층형 코드 구조 (상위/하위 코드)
   - 확장 가능한 코드 체계
   - 유지보수 용이성
@@ -50,7 +50,7 @@ Ezen Academy K-Digital 2기 파이널 프로젝트 - 구매관리시스템
   - 구매 프로젝트 생성시 사용
 
 ### 4. 프로젝트 관리
-- **다양한 프로젝트 유형**
+- 다양한 프로젝트 유형
   - SI (시스템 통합)
   - 유지보수
   - 컨설팅
@@ -116,7 +116,7 @@ Ezen Academy K-Digital 2기 파이널 프로젝트 - 구매관리시스템
 ## ✔ 주요 기술
 ---
 
-**Backend - Spring**
+Backend - Spring
 - IntelliJ IDE
 - Spring Boot 3.x
 - Spring Data JPA
@@ -130,7 +130,7 @@ Ezen Academy K-Digital 2기 파이널 프로젝트 - 구매관리시스템
 - JWT
 - Swagger 3.0.0
 
-**Frontend**
+Frontend
 - Visual Studio Code IDE
 - React
 - Recharts
@@ -140,7 +140,7 @@ Ezen Academy K-Digital 2기 파이널 프로젝트 - 구매관리시스템
 - React Router
 - Material-UI
 
-**CI/CD**
+CI/CD
 - Github Actions 배포 자동화
 - AWS EC2
 - AWS RDS
