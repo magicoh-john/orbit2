@@ -280,11 +280,11 @@ purchase-management-system-front
 
 ## ✔ 팀원 역할 분배
 ---
-
-
-### 팀원별 역할 분배
 ![팀원간역할분배](./images/team_role.png)
 
+## ✔ 시스템 아키텍처(System Architecture)
+---
+![시스템 아키텍처](./images/system_architecture.png)
 
 
 <!DOCTYPE html>
